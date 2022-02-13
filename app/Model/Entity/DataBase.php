@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * ARQUIVO RESPONSÁVEL POR SIMULAR RETORNO E RESPOSTAS DO BANCO DE DADOS
+ */
 namespace App\Model\Entity;
 
 class DataBase{

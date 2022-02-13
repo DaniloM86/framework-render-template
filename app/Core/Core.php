@@ -1,4 +1,7 @@
 <?php
+/**
+ * ARQUIVO RESPONSÁVEL POR VERIFICAR, VALIDAR E RENDERIZAR ARQUIVOS E VARIÁVEIS DA VIEW(HTML)
+ */
 namespace App\Core;
 
 class Core{

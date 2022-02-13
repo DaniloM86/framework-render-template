@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * ARQUIVO RESPONSÁVEL POR DEIXAR FIXO O CABEÇALHO(HEADER) E O RODA PÉ(FOOTER) DA PAGINA
+ */
 namespace App\Controller\Pages;
 use App\Core\Core;
 
