@@ -1,0 +1,9 @@
+{
+    "name": "mvc/template",
+    "description": "projeto framework que realiza a exibição renderizada das views",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app"
+        }
+    }
+}
